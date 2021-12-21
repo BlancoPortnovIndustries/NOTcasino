@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NOTcasino:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NOTcasino_jar</output-path>
+    <root id="archive" name="NOTcasino.jar">
+      <element id="module-output" name="NOTcasino" />
+    </root>
+  </artifact>
+</component>
